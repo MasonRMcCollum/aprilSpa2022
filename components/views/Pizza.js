@@ -12,6 +12,5 @@ ${st.pizzas
     }</td></tr>`;
   })
   .join("")}
-
 </table>
 `;
